@@ -1,5 +1,12 @@
 body {  
+  
   background: rgb(255, 171, 228);
+
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  height: 100vh;
+
 }
 
 h1,
