@@ -1,5 +1,8 @@
+@import url('stardom.css');
+
 body {  
   
+  font-family: 'Stardom-Regular';
   background: rgb(255, 171, 228);
 
   display: grid;
