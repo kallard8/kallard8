@@ -22,14 +22,17 @@ h1 {
   text-align: center;
 }
 
-p { 
+body p { 
   color: #eee;
-  text-align:left;
+  text-align: left;
+  text-size-adjust: 50;
   width: 100vh;
 }
 
 img {
-  align-self: center;
-  height: 95%;
-  width: 10%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100%;
+  width: 23%;
 }
