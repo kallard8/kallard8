@@ -4,7 +4,7 @@ body {
 
   font-family: 'Stardom-Regular';
   
-  background: rgb(237, 181, 192);
+  background: #f88fa9;
 
   display: grid;
   justify-content: center;
@@ -23,6 +23,7 @@ h1 {
 }
 
 body p { 
+  display: block;
   color: #eee;
   text-align: left;
   text-size-adjust: 50;
@@ -35,4 +36,5 @@ img {
   margin-right: auto;
   height: 100%;
   width: 23%;
+  margin-bottom: 50px;
 }
