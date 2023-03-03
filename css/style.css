@@ -4,7 +4,7 @@ body {
 
   font-family: 'Stardom-Regular';
   
-  background: #f88fa9;
+  background: #000000;
 
   display: grid;
   justify-content: center;
@@ -15,26 +15,29 @@ body {
 
 body h1 {
   margin: auto;
-  color: #eee;
+  color: #ffffff;
   font-family: 'Stardom-Regular';
 }
 
 h1 {
   text-align: center;
+  padding-bottom: .5rem;
 }
 
 body p { 
   margin: auto;
-  color: #eee;
+  color: #ffffff;
   text-align: left;
   text-size-adjust: 50;
   width: 100vh;
+  font-size: medium;
 }
 
 .profile {
   margin: auto;
   height: auto;
   width: 30%;
+  padding-bottom: 1rem;
 }
 
 .instagram   {
