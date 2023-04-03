@@ -1,6 +1,8 @@
 # Keira Allard
 
-<blockquote>There's no "i" in teamwork</blockquote>
+![Mt.Spokane](https://skinwrockies.com/wp-content/uploads/2021/04/mtspokanevistahouse.jpg)
+
+<blockquote>There's no "i" in team</blockquote>
 
 ## Major
 Visual Communication Design at Eastern Washington University
