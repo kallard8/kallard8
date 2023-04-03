@@ -1,3 +1,15 @@
+# Keira Allard
+
+<blockquote>There's no "i" in teamwork</blockquote>
+
+## Major
+Visual Communication Design at Eastern Washington University
+
+## Skills
+* Web Design
+* Graphic Design 
+* UX Design
+
 ## Sources
 * [Stardom from Font Share] (https://www.fontshare.com/fonts/stardom)
 * [CSS tutorials] (https://www.linkedin.com/learning/introduction-to-css-14934735)
