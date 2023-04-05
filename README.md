@@ -1,5 +1,5 @@
 # Keira Allard
-![Keira's GitHub stats](https://github-readme-stats.vercel.app/api?username=kallard8)](https://github.com/kallard8/github-readme-stats)
+![Keira's GitHub stats](https://github-readme-stats.vercel.app/api?username=kallard8)(https://github.com/kallard8/github-readme-stats)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/kallard8/kallard8)
 
