@@ -1,6 +1,8 @@
 # Keira Allard
 ![Keira's GitHub stats](https://github-readme-stats.vercel.app/api?username=kallard8)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kallard8)
+
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/kallard8/kallard8)
 
 ![Mt.Spokane](https://skinwrockies.com/wp-content/uploads/2021/04/mtspokanevistahouse.jpg)
