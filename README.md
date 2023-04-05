@@ -1,19 +1,21 @@
 # Keira Allard
 ![Keira's GitHub stats](https://github-readme-stats.vercel.app/api?username=kallard8)](https://github.com/kallard8/github-readme-stats)
 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/kallard8/kallard8)
+
 ![Mt.Spokane](https://skinwrockies.com/wp-content/uploads/2021/04/mtspokanevistahouse.jpg)
 
-<blockquote>There's no "i" in team</blockquote>
+<blockquote>:heart: There's no "i" in team</blockquote>
 
 ## Major
-Visual Communication Design at Eastern Washington University
+:mortar_board: Visual Communication Design at Eastern Washington University
 
 ## Skills
 * Web Design
 * Graphic Design 
 * UX Design
 
-## My Links
+## My Links 
 * [Github](https://github.com/kallard8)
 * [Codepen](https://codepen.com/kallard)
 * [Figma](https://figma.com) 
