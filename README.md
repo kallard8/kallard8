@@ -4,7 +4,7 @@
 
 ![Mt.Spokane](https://skinwrockies.com/wp-content/uploads/2021/04/mtspokanevistahouse.jpg)
 ## Bio
-Design should be accessible & come naturally. I design with how a user will experience it first, then I perfect my work. I'm here to make the world great.
+Design should be accessible & come naturally. I design with a user's experience in mind first, then I perfect my work. I'm here to make the world great.
 
 ![Keira's GitHub stats](https://github-readme-stats.vercel.app/api?username=kallard8)
 
